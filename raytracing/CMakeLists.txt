@@ -1,6 +1,7 @@
 file(GLOB_RECURSE raytracing_files PROJECT_SOURCE_DIR
   "*.h"
   "*.cpp"
+  "*.hpp"
 #  "lib/*.hpp"
 #  "lib/*.cpp"
 )
