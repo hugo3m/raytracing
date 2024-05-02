@@ -4,3 +4,6 @@ CMakeFiles/
 CMakeCache.*
 Makefile
 cmake_install.*
+.DS_Store
+compile_commands.*
+*.ppm
