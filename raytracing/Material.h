@@ -11,7 +11,7 @@ public:
     Vec3f GetColor() const;
 
 private:
-    Vec3f Color;
+    Vec3f _Color;
 };
 
 #endif

@@ -17,8 +17,8 @@ public:
     Material GetMaterial() const;
 
 private:
-    Vec3f Center;
-    float Radius;
+    Vec3f _Center;
+    float _Radius;
     Material _Material;
 };
 
